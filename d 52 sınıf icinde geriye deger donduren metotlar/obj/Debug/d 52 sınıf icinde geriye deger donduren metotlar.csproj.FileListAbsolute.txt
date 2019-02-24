@@ -1,0 +1,7 @@
+C:\Users\docal\source\repos\d 52 sınıf icinde geriye deger donduren metotlar\d 52 sınıf icinde geriye deger donduren metotlar\bin\Debug\d 52 sınıf icinde geriye deger donduren metotlar.exe.config
+C:\Users\docal\source\repos\d 52 sınıf icinde geriye deger donduren metotlar\d 52 sınıf icinde geriye deger donduren metotlar\bin\Debug\d 52 sınıf icinde geriye deger donduren metotlar.exe
+C:\Users\docal\source\repos\d 52 sınıf icinde geriye deger donduren metotlar\d 52 sınıf icinde geriye deger donduren metotlar\bin\Debug\d 52 sınıf icinde geriye deger donduren metotlar.pdb
+C:\Users\docal\source\repos\d 52 sınıf icinde geriye deger donduren metotlar\d 52 sınıf icinde geriye deger donduren metotlar\obj\Debug\d 52 sınıf icinde geriye deger donduren metotlar.csprojAssemblyReference.cache
+C:\Users\docal\source\repos\d 52 sınıf icinde geriye deger donduren metotlar\d 52 sınıf icinde geriye deger donduren metotlar\obj\Debug\d 52 sınıf icinde geriye deger donduren metotlar.csproj.CoreCompileInputs.cache
+C:\Users\docal\source\repos\d 52 sınıf icinde geriye deger donduren metotlar\d 52 sınıf icinde geriye deger donduren metotlar\obj\Debug\d 52 sınıf icinde geriye deger donduren metotlar.exe
+C:\Users\docal\source\repos\d 52 sınıf icinde geriye deger donduren metotlar\d 52 sınıf icinde geriye deger donduren metotlar\obj\Debug\d 52 sınıf icinde geriye deger donduren metotlar.pdb
